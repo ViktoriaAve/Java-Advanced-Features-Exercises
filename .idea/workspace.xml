@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2bc44ac6-54fe-4a7c-8bcd-4e00e625630c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Streams/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Streams/Streams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Streams/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Streams/StreamsTask3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -40,16 +40,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/vikss/Documents/GitHub/JanuaryLessons"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vikss/Documents/GitHub/JanuaryLessons&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.Streams" />
+}</component>
+  <component name="RunManager" selected="Application.GenericTypesTask2">
+    <configuration name="GenericTypesTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenericTypes.GenericTypesTask2" />
+      <module name="Java-Advanced-Features-Exercises.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GenericTypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaIOTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaIO.JavaIOTask1" />
+      <module name="Java-Advanced-Features-Exercises.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaIO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamsTask3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.StreamsTask3" />
       <module name="Java-Advanced-Features-Exercises.main" />
       <extension name="coverage">
         <pattern>
@@ -63,7 +89,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Streams" />
+        <item itemvalue="Application.JavaIOTask1" />
+        <item itemvalue="Application.GenericTypesTask2" />
+        <item itemvalue="Application.StreamsTask3" />
       </list>
     </recent_temporary>
   </component>
