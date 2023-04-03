@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2bc44ac6-54fe-4a7c-8bcd-4e00e625630c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Streams/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Streams/StreamsTask3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GenericTypes/GenericTypesTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GenericTypes/GenericTypesTask2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,14 +40,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vikss/Documents/GitHub/JanuaryLessons&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/vikss/Documents/GitHub/Java-Advanced-Features-Exercises"
   }
-}</component>
-  <component name="RunManager" selected="Application.GenericTypesTask2">
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="GenericTypesTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GenericTypes.GenericTypesTask2" />
       <module name="Java-Advanced-Features-Exercises.main" />
@@ -74,12 +74,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamsTask3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.StreamsTask3" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Task1and5.Main" />
       <module name="Java-Advanced-Features-Exercises.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Streams.*" />
+          <option name="PATTERN" value="OOP.Task1and5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOP.Task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Task2.Main" />
+      <module name="Java-Advanced-Features-Exercises.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.Task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOP.Task3and4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Task3and4.Main" />
+      <module name="Java-Advanced-Features-Exercises.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.Task3and4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,9 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOP.Task3and4.Main" />
+        <item itemvalue="Application.OOP.Task2.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.JavaIOTask1" />
         <item itemvalue="Application.GenericTypesTask2" />
-        <item itemvalue="Application.StreamsTask3" />
       </list>
     </recent_temporary>
   </component>

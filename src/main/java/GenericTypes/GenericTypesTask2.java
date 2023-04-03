@@ -10,7 +10,6 @@ import java.util.List;
 
 
 public class GenericTypesTask2 {
-    // Main method
     public static void main(String[] args) {
 
         // An anonymous interface implementation using lambda expression
